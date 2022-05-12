@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590804891752",
+    "project_id": "practice-3ee5b",
+    "storage_bucket": "practice-3ee5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590804891752:android:fa8ff21e98302e81a223dd",
+        "android_client_info": {
+          "package_name": "com.jung.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590804891752-furf5p9jkv1njlpcpekditl4jasvvmr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEP8I-kRP8RQlgGGdqcG1Jol1KU7bxxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590804891752-furf5p9jkv1njlpcpekditl4jasvvmr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
